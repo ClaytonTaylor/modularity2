@@ -1,0 +1,40 @@
+/* ADD YOUR STYLES HERE */
+
+.threesquares {
+    display: inline-block;
+    margin: auto;
+    width: 760px;
+    text-align: center;
+    
+}
+
+.different-html {
+    width: 900px;
+    display: inline-block;
+}
+
+.diffhtml {
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.diffhtml-1 {
+    
+}
+
+.helloparagraph {
+    display: inline-block;
+    width: 90px;
+    text-align: center;
+}
+
+.diffhtml-img {
+    display: inline-block;
+    padding-bottom: 80px;
+}
+
+.ready-aim-fire {
+    display: inline-block;
+    text-align: right;
+}
