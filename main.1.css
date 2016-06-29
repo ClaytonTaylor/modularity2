@@ -1,0 +1,85 @@
+/* ADD YOUR STYLES HERE */
+
+.threesquares {
+    display: inline-block;
+    margin: auto;
+    width: 760px;
+    text-align: center;
+    
+}
+
+.different-html {
+    width: 900px;
+    display: inline-block;
+}
+
+.diffhtml {
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.helloparagraph {
+    display: inline-block;
+    width: 90px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.diffhtml-img {
+    display: inline-block;
+    padding-bottom: 80px;
+}
+
+.ready-aim-fire {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+.vs-div {
+    padding-top: 80px;
+    padding-bottom: 90px;
+}
+
+.horizontal-list li {
+    display: inline;
+    text-align: center;
+    list-style-type: none;
+}
+
+.button1 {
+    background-color: #E6848A;
+    border: none;
+    color: white;
+    padding: 22px 75px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.button2 {
+    background-color: #E6848A;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.button3 {
+    background-color: #E6848A;
+    border: none;
+    color: white;
+    padding: 5px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 5px;
+}
