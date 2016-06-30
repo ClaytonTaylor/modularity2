@@ -217,6 +217,32 @@ a:hover {
     background-color: #e7e7e7;
 }
 
-.pag-control {
+.ol.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
 
+ol.pagination li {display: inline;}
+
+ol.pagination li a {
+    color: #E6848A;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border-bottom: solid #E6848A;
+}
+
+ol.pagination li {
+    background-color: #CACACA;
+    color: white;
+}
+
+.active-pagination {
+    color: #CACACA;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
 }
