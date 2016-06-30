@@ -231,7 +231,10 @@ ol.pagination li a {
     padding: 8px 16px;
     text-decoration: none;
     transition: background-color .3s;
-    border-bottom: solid #E6848A;
+    border-bottom: 15px solid #E6848A;
+    border-bottom-width: 3px;
+    padding-right: 15px;
+    margin-left: 3px;
 }
 
 ol.pagination li {
@@ -245,4 +248,46 @@ ol.pagination li {
     padding: 8px 16px;
     text-decoration: none;
     transition: background-color .3s;
+    border-bottom: solid #CACACA;
+    margin-left: 3px;
+}
+
+ol.pagination li:first-child a {
+    color: #E6848A;
+    float: left;
+    padding: 8px 10px;
+    text-decoration: none;
+    transition: background-color .3s;
+    padding-right: 15px;
+    margin-left: 3px;
+    border: none;
+}
+
+ol.pagination li:last-child a {
+    color: #E6848A;
+    float: left;
+    padding: 8px 10px;
+    text-decoration: none;
+    transition: background-color .3s;
+    padding-right: 5px;
+    margin-left: 3px;
+    border: none;
+}
+
+.met-time {
+    font-size: 12px;
+    color: #CACACA;
+}
+
+.met-para {
+    width: 100%;
+    height: 80px;
+}
+
+.sean-image-div {
+    
+}
+
+.sean-image {
+    text-align: left;
 }
