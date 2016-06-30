@@ -149,7 +149,6 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    
 }
 
 
@@ -172,7 +171,7 @@
     background-color: #E6848A;
     color: white;
     padding-right: 25px;
-    padding-left: 25px;
+    padding-left: 35px;
 }
 
 .nav3 {
@@ -185,7 +184,7 @@
     font-size: 16px;
     border-radius: 5px;
     padding-right: 25px;
-    padding-left: 25px;
+    padding-left: 35px;
 }
 
 .nav4 {
@@ -197,7 +196,7 @@
     text-decoration: none;
     font-size: 16px;
     border-radius: 5px;
-    padding-left: 25px;
+    padding-left:40px;
     padding-right: 25px;
 }
 
@@ -211,5 +210,13 @@
     font-size: 16px;
     border-radius: 5px;
     padding-right: 25px;
-    padding-left: 25px;
+    padding-left: 30px;
+}
+
+a:hover {
+    background-color: #e7e7e7;
+}
+
+.pag-control {
+
 }
